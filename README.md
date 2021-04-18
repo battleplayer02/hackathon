@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/42701850/115156605-9e8b2f80-a0a2-11eb-8b0a-a7f41616f3ce.png)
 
 # Note:
-## There may be some features like playing songs which may nod work due to api key update or password.
+## There may be some features like playing songs which may not work due to api key update or password.
 
 
 ## 1.Google Search 
